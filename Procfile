@@ -1,1 +1,1 @@
-web: vendor/bin/heroku-php-apache2 public/vista/formulariocliente.php
+web: vendor/bin/heroku-php-apache2 public/vista/
