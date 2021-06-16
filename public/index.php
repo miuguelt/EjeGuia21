@@ -9,6 +9,7 @@
 <body>
 <?php
   echo "Hola Mundo";
+  include_once("vista/formulairocliente.php");
 ?>
 </body>
 </html>
