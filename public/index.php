@@ -1,4 +1,3 @@
 <?php
-
-  include_once("/vista/formulariocliente.php");
+header("location:vista/formulariocliente.php?msj='Mensaje '");
 ?>

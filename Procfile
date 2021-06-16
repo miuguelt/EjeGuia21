@@ -1,1 +1,1 @@
-web: vendor/bin/heroku-php-apache2 public/vista/
+web: vendor/bin/heroku-php-apache2 public/
